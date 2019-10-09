@@ -1,0 +1,39 @@
+html, body {
+    max-width: 800px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+#Ingrediënten {
+    margin-top: 10px;
+    background-color: #f27b7b;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.title {
+    font-size: 30px;
+}
+
+.knop {
+    display: inline-block;
+    background-color: #f27b7b;
+    padding: 10px 15px;
+    border-radius: 2px;
+    color: white;
+}
+
+.knoppen-lijst {
+    list-style-type: none; 
+    padding: 0px;
+}
+
+img {
+    border-radius: 4px;
+}
